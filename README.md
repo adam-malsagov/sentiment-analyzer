@@ -57,7 +57,9 @@ By default, the app will open at:
 ---
 
 ## 📷 Screenshots
-*(Optional: Add images or GIFs here showing the app in action)*
+![Run app](images/run_app.png)
+![Web app browser window](images/web_app.png)
+
 
 ---
 
