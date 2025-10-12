@@ -1,7 +1,6 @@
 # Sentiment Analyzer
 
-A simple web app built with Flask and Hugging Face Transformers that analyzes the sentiment of user entered text as positive or negative.  
-Shows instant feedback and keeps history of previous analyses.
+A simple web app built with Flask and Hugging Face Transformers that analyzes the sentiment of user entered text as positive or negative. Shows instant feedback and keeps history of previous analyses.
 
 ---
 
