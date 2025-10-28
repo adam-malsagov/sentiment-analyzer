@@ -40,14 +40,14 @@ SECRET_KEY=your_secret_key_here
 
 4. Open Terminal (macOS/Linux) or Command Prompt/Anaconda Prompt (Windows)
 
-5.Navigate to the folder:
+5. Navigate to the folder:
 `cd path/to/project`
 
-6.Install dependencies:
+6. Install dependencies:
 
 `pip install -r requirements.txt`
 
-7.Run the app:
+7. Run the app:
 
 `python app.py`
 
