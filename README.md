@@ -66,7 +66,6 @@ By default, the app will open at:
 ## 📖 What I Learned
 
 - How to build a simple web app in Flask for NLP task that can be run locally in browser
-- Using third party libraries/packages and including the dependencies in requirements.txt
 - Loading a model from transformers HuggingFace library
 - Basics of modular programming
 
